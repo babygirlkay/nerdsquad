@@ -1,7 +1,17 @@
+body{
+    margin:0;
+    font-family: 'Handlee', cursive;
+}
+
 header{
     height: 100px;
     background-color:#ff66a3;
     color:White;
+}
+header h1{
+    margin:0px;
+    padding:20px;
+    float:left;
 }
 
 
