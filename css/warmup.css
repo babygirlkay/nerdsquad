@@ -1,0 +1,18 @@
+.box-1
+{
+    height:500px;
+    width:110%;
+    background-color:red;
+}
+
+.sub-box-1{ 
+    height:50px;
+    width:50px;
+    background-color:pink;
+    margin:20px 0px 0px 15px;
+    
+    
+    
+}
+
+

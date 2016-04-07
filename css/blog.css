@@ -1,0 +1,34 @@
+div{
+  width:300px; 
+  height:400px;
+  background-color: red;
+  float:left;
+}
+img{
+  width: 250px;
+  height: 150px;
+  margin: 0 20px;
+  }
+
+.box-1{
+  background-color:hotpink;
+ }
+.box-2{
+  background-color:lightgreen;
+}
+.box-3{
+  background-color:purple;
+}
+.box-4{
+  background-color:turquoise;
+}
+.box-5{
+  background-color:yellow;
+}
+
+h2{
+  text-align:center;
+  
+}
+p{text-align:center;
+}
